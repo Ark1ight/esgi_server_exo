@@ -3,7 +3,7 @@
 To do this exercise, you must read carefully the given documentations and rules.
 
 ## Rules
-
+Test
 - Deploy this Node.js application to Render:
   - Create your service on Render in the Europe region
   - Deploy your project to an online Git repository
